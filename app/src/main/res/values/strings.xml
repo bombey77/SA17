@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SA17</string>
+    <string name="rg_left">Left</string>
+    <string name="rg_center">Center</string>
+    <string name="rg_right">Right</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_create">Create</string>
+</resources>
